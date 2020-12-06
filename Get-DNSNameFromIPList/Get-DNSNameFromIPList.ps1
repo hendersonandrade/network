@@ -32,7 +32,7 @@ function Get-DNSNameFromIPList {
     GitHub: https://github.com/hendersonandrade
     
 .LINK
-   https://github.com/hendersonandrade/network/blob/main/Get-DNSNameFromIPList.ps1 
+    
 
 #>
 
